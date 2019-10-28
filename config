@@ -1,0 +1,12 @@
+[pack]
+	buildbitmaps = false
+[core]
+	symlinks = false
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = true
+	bare = false
+[remote "origin"]
+	url = file:///C:/Users/fredy/Documents/NetBeansProjects/freddy%20neira%20prueba%20git/
+	fetch = +refs/heads/freddy:refs/remotes/origin/freddy
+	fetch = +refs/heads/master:refs/remotes/origin/master
